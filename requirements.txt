@@ -1,11 +1,12 @@
 joblib==0.15.1
 keras
-spicy
+scipy==1.4.1
 numpy==1.19.0
 Pillow==7.1.2
 scikit-learn
 pandas
 plotly
+matplotlib
 opencv-python
 cloudpickle
 tensorboard==2.2.2
