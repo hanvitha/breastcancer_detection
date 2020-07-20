@@ -1,0 +1,14 @@
+joblib==0.15.1
+keras
+numpy==1.19.0
+Pillow==7.1.2
+scikit-learn
+pandas
+plotly
+opencv-python
+cloudpickle
+tensorboard==2.2.2
+tensorboard-plugin-wit==1.7.0
+tensorflow==2.2.0
+tensorflow-estimator==2.2.0
+requests>=2.21.0
