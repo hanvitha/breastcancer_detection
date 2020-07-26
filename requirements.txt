@@ -16,3 +16,4 @@ tensorflow==2.2.0
 tensorflow-estimator==2.2.0
 requests>=2.21.0
 imageio
+prometheus_client
